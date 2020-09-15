@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a Portfolio-website]!
 - 🌱 I’m currently learning AR and Reactjs
-- 👯 I’m looking to collaborate with other frontend Developer
+- 👯 I’m looking forward to collaborate with other frontend Developers
 - 🥅 2020 Goals: Contribute more to Open Source projects & be fluent in spanish
 - ⚡ Fun fact: I love anchoring, sketching & singing
 
